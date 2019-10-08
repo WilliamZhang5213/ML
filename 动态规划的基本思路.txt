@@ -1,3 +1,0 @@
-①可以划分为子问题
-②构造状态转移方程：构造的时候不用考虑的太远，考虑i与i-1、i-2的关系（考虑的太多关系会很混乱，本来就是个迭代的）
-③构造dp（一维：dp =[0 for i in range(len(a)+1)   二维： dp= [[0 for i in range(len(a)+1) for j in range(len(b)+1)]  ）
